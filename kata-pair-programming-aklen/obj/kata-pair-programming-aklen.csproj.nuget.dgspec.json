@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj": {}
+    "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj": {
+    "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj",
+        "projectUniqueName": "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj",
         "projectName": "kata-pair-programming-aklen",
-        "projectPath": "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj",
+        "projectPath": "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\obj\\",
+        "outputPath": "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

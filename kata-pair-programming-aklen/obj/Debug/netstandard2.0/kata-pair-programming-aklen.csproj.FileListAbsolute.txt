@@ -1,0 +1,9 @@
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\bin\Debug\netstandard2.0\kata-pair-programming-aklen.deps.json
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\bin\Debug\netstandard2.0\kata-pair-programming-aklen.dll
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\bin\Debug\netstandard2.0\kata-pair-programming-aklen.pdb
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.csprojAssemblyReference.cache
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.AssemblyInfoInputs.cache
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.AssemblyInfo.cs
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.csproj.CoreCompileInputs.cache
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.dll
+C:\Projects\Aklen\unit-testing-using-dotnet-test\kata-pair-programming-aklen\obj\Debug\netstandard2.0\kata-pair-programming-aklen.pdb
