@@ -4,7 +4,7 @@ using Xunit;
 
 namespace kata_pair_programming_aklen.Tests
 {
-    public class UnitTest1
+    public class UnitTest
     {
         [Fact]
         public void When_Sum_Input_Are_5_And_5_Return_Ten()

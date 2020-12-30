@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xsfgZMqVT1WAga4MiqPi8m/E1Rf3euTKbhjD/2eIl3eKKW/uowV5ku7PIN1w2CQkyG0T8ATU1rhmyKLz1lZuyA==",
+  "dgSpecHash": "rJxwg3ZLrsJK5/r4bSO5m65jqMW4tZ9cwd7GpSQtGF0zhChEEO2ZZMjOmhdVkS2NN0Z5bTxoquYzwmH/5Vbd+w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen\\kata-pair-programming-aklen.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/kata-pair-programming-aklen.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

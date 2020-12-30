@@ -1,0 +1,12 @@
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/bin/Debug/net5.0/kata-pair-programming-aklen.deps.json
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/bin/Debug/net5.0/kata-pair-programming-aklen.dll
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/bin/Debug/net5.0/ref/kata-pair-programming-aklen.dll
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/bin/Debug/net5.0/kata-pair-programming-aklen.pdb
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.csprojAssemblyReference.cache
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.AssemblyInfoInputs.cache
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.AssemblyInfo.cs
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.csproj.CoreCompileInputs.cache
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.dll
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/ref/kata-pair-programming-aklen.dll
+/workspace/kata-pair-programming-aklen/kata-pair-programming-aklen/obj/Debug/net5.0/kata-pair-programming-aklen.pdb
