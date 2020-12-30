@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/x7esueXqqrFe72shD5NIYUS3OOTNfHa+zLKlo5TSPHFXE1a230RoGbalplrhjAlqL2QwrTNZRZRX7VRlUj8Q==",
+  "dgSpecHash": "onjOXo2LqR1Zh1abZB6NGRmT/Fgdg7sebTGsayT8huixK08Rrh+oTYB+0Z1HzJDYKeN5ik9XIwbHdXGFW3+x1A==",
   "success": true,
-  "projectFilePath": "c:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen.Tests\\kata-pair-programming-aklen.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\Aklen\\unit-testing-using-dotnet-test\\kata-pair-programming-aklen.Tests\\kata-pair-programming-aklen.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
